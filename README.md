@@ -1,67 +1,47 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════
-     ██████╗ ██████╗ ██████╗  █████╗ ███████╗██╗
-     ██╔═══╝ ██╔═══╝ ██╔══██╗██╔══██╗╚══███╔╝██║
-     █████╗   █████╗  ██████╔╝███████║  ███╔╝ ██║
-     ██╔══╝   ██╔══╝  ██╔══██╗██╔══██║ ███╔╝  ██║
-     ██║      ██║     ██║  ██║██║  ██║███████╗██║
-     ╚═╝      ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
-
      "Between the stars and the semicolons, intelligence emerges."
-
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    HERO BANNER                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════ HERO BANNER ══════════════════════ -->
 
 <a href="https://github.com/ffrazi">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:111827,50:1A1B26,75:2D1B69,100:4C1D95&height=260&section=header&text=ffrazi&fontSize=72&fontColor=C4B5FD&fontAlignY=38&desc=AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Intelligence&descSize=18&descAlignY=56&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,15:111827,30:1A1B26,50:2D1B69,70:4C1D95,85:6D28D9,100:8B5CF6&height=280&section=header&text=ffrazi&fontSize=80&fontColor=E9D5FF&fontAlignY=35&desc=AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Intelligence&descSize=20&descAlignY=55&descAlign=50&animation=fadeIn" />
 </a>
 
 <br/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/ffrazi">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%E2%96%B8+AI+%26+ML+Enthusiast;%E2%96%B8+Backend+Engineer;%E2%96%B8+Builder+of+Intelligent+Systems;%E2%96%B8+Problem+Solver;%E2%96%B8+Turning+Ideas+into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=70&lines=%E2%97%86+AI+%26+ML+Enthusiast;%E2%97%86+Backend+Engineer;%E2%97%86+Builder+of+Intelligent+Systems;%E2%97%86+Problem+Solver;%E2%97%86+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Subtle tagline -->
-<img src="https://img.shields.io/badge/%E2%9C%A6%20Less%20noise%2C%20more%20substance.%20%E2%9C%A6-0B0F19?style=flat&labelColor=0B0F19&color=1A1B26" />
+<img src="https://img.shields.io/badge/✦_Less_noise,_more_substance._✦-8B5CF6?style=flat-square&labelColor=0B0F19" />
 
 <br/><br/>
 
-<!-- Constellation Divider -->
-<img width="600" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img src="https://komarev.com/ghpvc/?username=ffrazi&style=for-the-badge&color=6D28D9&label=VISITORS"/>
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║               NEURAL WAVE DIVIDER                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:4C1D95,100:0B0F19&height=2" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    ABOUT ME                                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════ ABOUT ME ══════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
+<img src="https://img.shields.io/badge/%20-0B0F19?style=flat&labelColor=0B0F19" width="100%" height="1"/>
 
-### `> whoami`
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
+<h2><img src="https://img.shields.io/badge/▹_>_whoami-A855F7?style=for-the-badge&labelColor=0B0F19&logo=windowsterminal&logoColor=A855F7"/></h2>
 
 </div>
-
-<br/>
 
 <table align="center">
 <tr>
@@ -71,10 +51,12 @@
 // The mind behind the code
 
 const ffrazi = {
+  name: "Aneesa Zainab Fazulullah",
   pronouns: "she" | "her",
-  identity: "AI & Backend Engineer",
-  philosophy: "Patterns reveal intelligence",
-  
+  role: "AI & Backend Engineer",
+  education: "B.E. in CSE @ St. Joseph's",
+  cgpa: 9.00,
+
   currentMission: [
     "Building intelligent systems",
     "Solving hard problems elegantly",
@@ -82,13 +64,14 @@ const ffrazi = {
   ],
 
   skills: {
-    ai_ml: ["Deep Learning", "NLP", "Computer Vision"],
-    backend: ["Python", "Java", "C++", "Node.js"],
-    data: ["TensorFlow", "PyTorch", "Scikit-learn"],
-    tools: ["Docker", "Git", "Linux", "AWS"]
+    ai_ml: ["Deep Learning", "NLP", "CV", "RAG"],
+    backend: ["Python", "Java", "C++", "Flask"],
+    data: ["TensorFlow", "PyTorch", "LangChain"],
+    cloud: ["Docker", "Vercel", "AWS", "Render"]
   },
 
-  mantra: "Between data and decisions, I build bridges."
+  mantra: "Between data and decisions,
+           I build bridges."
 };
 ```
 
@@ -97,23 +80,24 @@ const ffrazi = {
 
 <br/>
 
-> *"She codes under constellations —*  
-> *not for applause, but for understanding.*  
-> *Each algorithm a question,*  
+> *"She codes under constellations —*
+> *not for applause, but for understanding.*
+> *Each algorithm a question,*
 > *each model an answer waiting to emerge."*
 
 <br/>
 
 <div align="center">
 
-🌑 **Night Owl Developer**  
-⚡ **Competitive Programmer**  
-🧠 **AI/ML Researcher**  
-🔭 **Perpetual Learner**  
+<img src="https://img.shields.io/badge/🌑_Night_Owl_Developer-0B0F19?style=flat-square&labelColor=1A1B26" />
 
-<br/>
+<img src="https://img.shields.io/badge/⚡_Competitive_Programmer-0B0F19?style=flat-square&labelColor=1A1B26" />
 
-<img src="https://komarev.com/ghpvc/?username=ffrazi&style=for-the-badge&color=6366F1&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/badge/🧠_AI/ML_Researcher-0B0F19?style=flat-square&labelColor=1A1B26" />
+
+<img src="https://img.shields.io/badge/🔭_Perpetual_Learner-0B0F19?style=flat-square&labelColor=1A1B26" />
+
+<img src="https://img.shields.io/badge/🎯_400+_LeetCode_Problems-0B0F19?style=flat-square&labelColor=1A1B26" />
 
 </div>
 
@@ -123,104 +107,203 @@ const ffrazi = {
 
 <br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:4C1D95,100:0B0F19&height=2" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   TECH STACK                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════ TECH STACK ══════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
+<h2><img src="https://img.shields.io/badge/▹_>_cat_tech__stack.yml-A855F7?style=for-the-badge&labelColor=0B0F19&logo=windowsterminal&logoColor=A855F7"/></h2>
 
-### `> cat tech_stack.yml`
+<br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br/><br/>
+**⚙ Languages**
 
-#### ⚙ Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark&perline=2" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css&theme=dark&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=2" />
 
-#### 🧠 AI / ML / Data
+</td>
+<td align="center" width="25%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" />
-</p>
+**🧠 AI / ML**
 
-#### 🛠 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=sklearn,opencv&theme=dark&perline=2" />
 
-#### ☁ Infrastructure & DevOps
+</td>
+<td align="center" width="25%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,firebase,mongodb,mysql&theme=dark&perline=8" />
-</p>
+**🛠 Frameworks**
+
+<img src="https://skillicons.dev/icons?i=flask,django&theme=dark&perline=2" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark&perline=2" />
+
+</td>
+<td align="center" width="25%">
+
+**☁ DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git&theme=dark&perline=2" />
+
+<img src="https://skillicons.dev/icons?i=linux,aws&theme=dark&perline=2" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-0B0F19?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/LangChain-0B0F19?style=flat-square&logo=chainlink&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/VectorDB-0B0F19?style=flat-square&logo=pinecone&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/RAG-0B0F19?style=flat-square&logo=openai&logoColor=6366F1"/>
+<img src="https://img.shields.io/badge/Blockchain-0B0F19?style=flat-square&logo=ethereum&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0B0F19?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/MongoDB-0B0F19?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/MySQL-0B0F19?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Firebase-0B0F19?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/Vercel-0B0F19?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-0B0F19?style=flat-square&logo=render&logoColor=46E3B7"/>
+<img src="https://img.shields.io/badge/NLP-0B0F19?style=flat-square&logo=spacy&logoColor=09A3D5"/>
 
 </div>
 
 <br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:4C1D95,100:0B0F19&height=2" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                 FEATURED PROJECTS                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
+<h2><img src="https://img.shields.io/badge/▹_>_ls_~/projects_--featured-A855F7?style=for-the-badge&labelColor=0B0F19&logo=windowsterminal&logoColor=A855F7"/></h2>
 
-### `> ls ~/projects --featured`
+<br/>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
-
-<br/><br/>
-
-<!-- Project Cards -->
-
-<a href="https://github.com/ffrazi?tab=repositories">
-<img src="https://img.shields.io/badge/🏆_WINNER_—_DevRiot_2025-4C1D95?style=for-the-badge&labelColor=1A1B26&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRDcwMCIgZD0iTTEyIDJMNCAxNGg0bC0yIDhsMTAtMTJoLTRsMi04eiIvPjwvc3ZnPg==" alt="DevRiot 2025"/>
-</a>
+<!-- Achievement Badges -->
+<img src="https://img.shields.io/badge/🏆_WINNER_—_DevRiot_2025-8B5CF6?style=for-the-badge&labelColor=1A1B26"/>
 &nbsp;&nbsp;
-<a href="https://github.com/ffrazi?tab=repositories">
-<img src="https://img.shields.io/badge/🥈_FINALIST_—_Hacksagon_2026-4C1D95?style=for-the-badge&labelColor=1A1B26" alt="Hacksagon 2026"/>
-</a>
+<img src="https://img.shields.io/badge/🥈_FINALIST_—_Hacksagon_2026-6366F1?style=for-the-badge&labelColor=1A1B26"/>
 
 <br/><br/>
 
+<!-- ─── PROJECT 1: CopBotChatbox ─── -->
+
 <table>
 <tr>
-<td width="50%" align="center">
+<td>
 
-<a href="https://github.com/ffrazi?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ffrazi&repo=ffrazi&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false" />
-</a>
+### 🏆 CopBotChatbox — AI-Powered Legal Assistant
+
+> **Winner, DevRiot 2025**
+
+A Retrieval-Augmented Generation (RAG) pipeline providing highly accurate FIR guidance and IPC sections.
+Achieved **~90% response accuracy** and processed **150+ user queries**, improving end-user legal comprehension by **~70%**.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-0B0F19?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Flask-0B0F19?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-0B0F19?style=flat-square&logo=chainlink&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/VectorDB-0B0F19?style=flat-square&logo=pinecone&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/RAG-0B0F19?style=flat-square&logo=openai&logoColor=6366F1"/>
+<img src="https://img.shields.io/badge/SQLite-0B0F19?style=flat-square&logo=sqlite&logoColor=003B57"/>
 
 </td>
-<td width="50%" align="center">
+</tr>
+</table>
 
-```
-╭──────────────────────────────╮
-│  ◈ More projects loading...  │
-│                              │
-│  "Every great system         │
-│   starts as a single         │
-│   function call."            │
-│                              │
-│  → github.com/ffrazi         │
-╰──────────────────────────────╯
-```
+<br/>
+
+<!-- ─── PROJECT 2: OrganChain ─── -->
+
+<table>
+<tr>
+<td>
+
+### 🥈 OrganChain — Decentralized Organ Donation Platform
+
+> **Finalist, Hacksagon 2026**
+
+A hybrid-cloud platform integrating a containerized **Spring Boot** backend, a **Flask ML** matching service,
+and a secure **Ethereum blockchain** network. Deployed full-stack microservices via Vercel and Render within
+36 hours, successfully processing live transactions through Cloudflare tunnels.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-0B0F19?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0B0F19?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Python-0B0F19?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Flask-0B0F19?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3/Blockchain-0B0F19?style=flat-square&logo=ethereum&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Docker-0B0F19?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Vercel-0B0F19?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-0B0F19?style=flat-square&logo=render&logoColor=46E3B7"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─── PROJECT 3: PHI Masking ─── -->
+
+<table>
+<tr>
+<td>
+
+### 🛡 PHI Masking API — Healthcare Data Privacy
+
+Engineered a data ingestion API utilizing **NLP** and **Regex** to automatically detect and anonymize
+sensitive patient information before database storage. Secured downstream analytics and mitigated
+data exposure risks by establishing a robust, automated data privacy pipeline.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-0B0F19?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/FastAPI-0B0F19?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/NLP-0B0F19?style=flat-square&logo=spacy&logoColor=09A3D5"/>
+<img src="https://img.shields.io/badge/Regex-0B0F19?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiNBODU1RjciPi4qPC90ZXh0Pjwvc3ZnPg==&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/REST_APIs-0B0F19?style=flat-square&logo=postman&logoColor=FF6C37"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─── PROJECT 4: Emotion Recognition ─── -->
+
+<table>
+<tr>
+<td>
+
+### 👁 Real-Time Emotion Recognition
+
+Trained a computer vision machine learning model utilizing **TensorFlow** and **Keras** to accurately classify
+facial expressions. Attained **~92% validation accuracy** across 5 distinct emotion classes by optimizing
+facial landmark extraction with **Dlib**.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-0B0F19?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/OpenCV-0B0F19?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/TensorFlow-0B0F19?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Keras-0B0F19?style=flat-square&logo=keras&logoColor=D00000"/>
+<img src="https://img.shields.io/badge/Dlib-0B0F19?style=flat-square&logo=cmake&logoColor=064F8C"/>
 
 </td>
 </tr>
@@ -230,104 +313,66 @@ const ffrazi = {
 
 <br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:4C1D95,100:0B0F19&height=2" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    CODING ARENA                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════ CODING ARENA ══════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
-
-### `> ./arena --competitive-profiles`
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
-
-<br/><br/>
-
-<!-- Arena Description -->
-> *Where algorithms are forged and edge cases are conquered.*
+<h2><img src="https://img.shields.io/badge/▹_>_./arena_--competitive--profiles-A855F7?style=for-the-badge&labelColor=0B0F19&logo=windowsterminal&logoColor=A855F7"/></h2>
 
 <br/>
 
-<!-- Row 1 -->
+> *"Where algorithms are forged and edge cases are conquered."*
+
+<br/>
+
+<!-- Coding Profiles — Styled Grid -->
+<table>
+<tr>
+<td align="center" width="14%">
 <a href="https://leetcode.com/u/Aneesa_Zainab_F">
-<img src="https://img.shields.io/badge/LeetCode-Aneesa__Zainab__F-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0B0F19&color=1A1B26" />
+<img width="48" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=48" /><br/>
+<sub><b>LeetCode</b></sub>
 </a>
-&nbsp;
-<a href="https://www.naukri.com/code360/profile/0c071cb7-4a61-4bd6-a71d-07da">
-<img src="https://img.shields.io/badge/Code360-Profile-F97316?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y5NzMxNiIgZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=F97316&labelColor=0B0F19&color=1A1B26" />
-</a>
-&nbsp;
-<a href="https://www.geeksforgeeks.org/user/ffrazzi">
-<img src="https://img.shields.io/badge/GeeksforGeeks-ffrazzi-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0B0F19&color=1A1B26" />
-</a>
-
-<br/><br/>
-
-<!-- Row 2 -->
-<a href="https://www.codechef.com/users/solar_book_97">
-<img src="https://img.shields.io/badge/CodeChef-solar__book__97-5B4638?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=0B0F19&color=1A1B26" />
-</a>
-&nbsp;
+</td>
+<td align="center" width="14%">
 <a href="https://codeforces.com/profile/Ffrazi">
-<img src="https://img.shields.io/badge/Codeforces-Ffrazi-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=0B0F19&color=1A1B26" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/aneesazainabf">
-<img src="https://img.shields.io/badge/HackerRank-aneesazainabf-00EA64?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0B0F19&color=1A1B26" />
-</a>
-
-<br/><br/>
-
-<!-- Row 3 -->
-<a href="https://atcoder.jp/users/ffrazi">
-<img src="https://img.shields.io/badge/AtCoder-ffrazi-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgMjJMMTIgMmwxMCAyMEgyeiIvPjwvc3ZnPg==&logoColor=white&labelColor=0B0F19&color=1A1B26" />
-</a>
-
-<br/><br/>
-
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/Aneesa_Zainab_F">
-<img src="https://leetcard.jacoblin.cool/Aneesa_Zainab_F?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2D1B69&background=0B0F19" width="500"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  GITHUB STATISTICS                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
-
-### `> git log --stat --author="ffrazi"`
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
-
-<br/><br/>
-
-<!-- Stats Row -->
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/ffrazi">
-<img src="https://github-readme-stats.vercel.app/api?username=ffrazi&show_icons=true&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="48" src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944796.png?f=webp&w=48" /><br/>
+<sub><b>Codeforces</b></sub>
 </a>
 </td>
-<td width="50%" align="center">
-<a href="https://github.com/ffrazi">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ffrazi&theme=midnight-purple&background=0B0F19&border=2D1B69&stroke=2D1B69&ring=A855F7&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6366F1&hide_border=false" alt="Streak Stats" />
+<td align="center" width="14%">
+<a href="https://www.geeksforgeeks.org/user/ffrazzi">
+<img width="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" /><br/>
+<sub><b>GFG</b></sub>
+</a>
+</td>
+<td align="center" width="14%">
+<a href="https://www.codechef.com/users/solar_book_97">
+<img width="48" src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944794.png?f=webp&w=48" /><br/>
+<sub><b>CodeChef</b></sub>
+</a>
+</td>
+<td align="center" width="14%">
+<a href="https://www.hackerrank.com/profile/aneesazainabf">
+<img width="48" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944875.png?f=webp&w=48" /><br/>
+<sub><b>HackerRank</b></sub>
+</a>
+</td>
+<td align="center" width="14%">
+<a href="https://www.naukri.com/code360/profile/0c071cb7-4a61-4bd6-a71d-07da">
+<img width="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/A855F7/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" /><br/>
+<sub><b>Code360</b></sub>
+</a>
+</td>
+<td align="center" width="14%">
+<a href="https://atcoder.jp/users/ffrazi">
+<img width="48" src="https://img.atcoder.jp/assets/atcoder.png" /><br/>
+<sub><b>AtCoder</b></sub>
 </a>
 </td>
 </tr>
@@ -335,98 +380,116 @@ const ffrazi = {
 
 <br/>
 
-<!-- Top Languages -->
+<!-- LeetCode Stats — Full Width -->
+<a href="https://leetcode.com/u/Aneesa_Zainab_F">
+<img src="https://leetcard.jacoblin.cool/Aneesa_Zainab_F?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2D1B69&background=0B0F19" width="95%"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:4C1D95,100:0B0F19&height=2" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════ GITHUB STATISTICS ══════════════════════ -->
+
+<div align="center">
+
+<h2><img src="https://img.shields.io/badge/▹_>_git_log_--stat-A855F7?style=for-the-badge&labelColor=0B0F19&logo=windowsterminal&logoColor=A855F7"/></h2>
+
+<br/>
+
+<!-- Stats — Single Column -->
+
 <a href="https://github.com/ffrazi">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrazi&layout=donut-vertical&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ffrazi&show_icons=true&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false&ring_color=6366F1&include_all_commits=true&count_private=true" width="95%" alt="GitHub Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ffrazi">
+<img src="https://streak-stats.demolab.com/?user=ffrazi&theme=midnight-purple&background=0B0F19&border=2D1B69&stroke=2D1B69&ring=A855F7&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6366F1&hide_border=false" width="95%" alt="Streak Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ffrazi">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrazi&layout=compact&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false&langs_count=10" width="95%" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/ffrazi">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ffrazi&bg_color=0B0F19&color=C4B5FD&line=8B5CF6&point=A855F7&area_color=6366F1&area=true&hide_border=false&custom_title=✦%20Contribution%20Constellation%20✦&title_color=A855F7&border_color=2D1B69" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ffrazi&bg_color=0B0F19&color=C4B5FD&line=8B5CF6&point=A855F7&area_color=6366F1&area=true&hide_border=false&custom_title=%E2%9C%A6%20Contribution%20Constellation%20%E2%9C%A6&title_color=A855F7&border_color=2D1B69" width="95%" alt="Activity Graph" />
 </a>
 
 <br/><br/>
 
 <!-- Trophies -->
 <a href="https://github.com/ffrazi">
-<img src="https://github-profile-trophy.vercel.app/?username=ffrazi&theme=discord&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10&title_color=A855F7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ffrazi&theme=discord&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10" width="95%" alt="Trophies" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:4C1D95,100:0B0F19&height=2" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   CONNECT                                   ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════ CONNECT ══════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
+<h2><img src="https://img.shields.io/badge/▹_>_nc_--l_connect-A855F7?style=for-the-badge&labelColor=0B0F19&logo=windowsterminal&logoColor=A855F7"/></h2>
 
-### `> nc -l connect`
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0B0F19?style=flat"/>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ffrazi">
-<img src="https://img.shields.io/badge/GitHub-ffrazi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19&color=1A1B26" />
+<img src="https://img.shields.io/badge/GitHub-ffrazi-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0B0F19&color=1A1B26" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19" />
 </a>
 &nbsp;
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0B0F19&color=1A1B26" />
+<a href="mailto:aneesazainabf@gmail.com">
+<img src="https://img.shields.io/badge/Email-Reach_Out-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:4C1D95,100:0B0F19&height=2" width="100%"/>
 
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     FOOTER                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════ FOOTER ══════════════════════ -->
 
 <div align="center">
 
 <br/>
 
 ```
-    ·  ✦  ·       ·    ·   ✦      ·        ·    ✦   ·       ·
-         ·    ·        ·       ·        ·        ·       ·     
-    ·        ·    ╔═══════════════════════════════════════╗    ·
-   ✦    ·        ║                                       ║       ·
-        ·    ·   ║  "The universe rewards those who      ║  ·      
-    ·        ·   ║         remain curious."               ║    ✦   
-         ·       ║                                       ║  ·     
-    ·    ✦   ·   ╚═══════════════════════════════════════╝       ·
-        ·     ·       ·        ·    ✦    ·       ·    ·    ·     
-    ·       ·    ·  ✦     ·        ·        ✦  ·       ·        
+          ·  ✦  ·       ·    ·   ✦      ·        ·    ✦   ·       ·
+               ·    ·        ·       ·        ·        ·       ·     
+          ·        ·    ╔═══════════════════════════════════════╗    ·
+         ✦    ·        ║                                       ║       ·
+              ·    ·   ║  "The universe rewards those who      ║  ·      
+          ·        ·   ║         remain curious."               ║    ✦   
+               ·       ║                                       ║  ·     
+          ·    ✦   ·   ╚═══════════════════════════════════════╝       ·
+              ·     ·       ·        ·    ✦    ·       ·    ·    ·     
+          ·       ·    ·  ✦     ·        ·        ✦  ·       ·        
 ```
 
 <br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffrazi/ffrazi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ffrazi/ffrazi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ffrazi/ffrazi/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
 
 <!-- Moon phases — the rhythm of infinite learning -->
 🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘 🌑
@@ -441,7 +504,7 @@ The neural pathways of curiosity never stop firing."</i>
 <br/><br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,25:2D1B69,50:1A1B26,75:111827,100:0B0F19&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,15:6D28D9,30:4C1D95,50:2D1B69,70:1A1B26,85:111827,100:0B0F19&height=150&section=footer" />
 
 </div>
 

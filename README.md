@@ -510,21 +510,13 @@ facial landmark extraction with **Dlib**.
 <table>
 <tr>
 <td align="center"><h3>🌑</h3><sub>Begin</sub></td>
-<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
 <td align="center"><h3>🌒</h3><sub>Learn</sub></td>
-<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
 <td align="center"><h3>🌓</h3><sub>Build</sub></td>
-<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
 <td align="center"><h3>🌔</h3><sub>Refine</sub></td>
-<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
 <td align="center"><h3>🌕</h3><sub>Master</sub></td>
-<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
 <td align="center"><h3>🌖</h3><sub>Teach</sub></td>
-<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
 <td align="center"><h3>🌗</h3><sub>Reflect</sub></td>
-<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
 <td align="center"><h3>🌘</h3><sub>Dream</sub></td>
-<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
 <td align="center"><h3>🌑</h3><sub>Begin</sub></td>
 </tr>
 </table>

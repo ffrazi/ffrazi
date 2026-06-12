@@ -65,7 +65,7 @@ const ffrazi = {
 
   skills: {
     ai_ml: ["Deep Learning", "NLP", "CV", "RAG"],
-    backend: ["Python", "Java", "C++", "Flask"],
+    backend: ["Python", "Java", "Flask"],
     data: ["TensorFlow", "PyTorch", "LangChain"],
     cloud: ["Docker", "Vercel", "AWS", "Render"]
   },
@@ -382,7 +382,7 @@ facial landmark extraction with **Dlib**.
 
 <!-- LeetCode Stats — Full Width -->
 <a href="https://leetcode.com/u/Aneesa_Zainab_F">
-<img src="https://leetcard.jacoblin.cool/Aneesa_Zainab_F?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2D1B69&background=0B0F19" width="95%"/>
+<img src="https://leetcard.jacoblin.cool/Aneesa_Zainab_F?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=2D1B69&background=0B0F19&width=850" width="100%"/>
 </a>
 
 </div>
@@ -402,37 +402,39 @@ facial landmark extraction with **Dlib**.
 
 <br/>
 
-<!-- Stats — Single Column -->
+<!-- Stats — Single Column, Full Width -->
 
+<p align="center">
 <a href="https://github.com/ffrazi">
-<img src="https://github-readme-stats.vercel.app/api?username=ffrazi&show_icons=true&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false&ring_color=6366F1&include_all_commits=true&count_private=true" width="95%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ffrazi&show_icons=true&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false&ring_color=6366F1&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
 </a>
+</p>
 
-<br/><br/>
-
+<p align="center">
 <a href="https://github.com/ffrazi">
-<img src="https://streak-stats.demolab.com/?user=ffrazi&theme=midnight-purple&background=0B0F19&border=2D1B69&stroke=2D1B69&ring=A855F7&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6366F1&hide_border=false" width="95%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=ffrazi&theme=midnight-purple&background=0B0F19&border=2D1B69&stroke=2D1B69&ring=A855F7&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=6366F1&hide_border=false" width="100%" alt="Streak Stats" />
 </a>
+</p>
 
-<br/><br/>
-
+<p align="center">
 <a href="https://github.com/ffrazi">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrazi&layout=compact&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false&langs_count=10" width="95%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrazi&layout=compact&theme=midnight-purple&bg_color=0B0F19&border_color=2D1B69&title_color=A855F7&text_color=C4B5FD&icon_color=8B5CF6&hide_border=false&langs_count=10" width="100%" alt="Top Languages" />
 </a>
-
-<br/><br/>
+</p>
 
 <!-- Activity Graph -->
+<p align="center">
 <a href="https://github.com/ffrazi">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ffrazi&bg_color=0B0F19&color=C4B5FD&line=8B5CF6&point=A855F7&area_color=6366F1&area=true&hide_border=false&custom_title=%E2%9C%A6%20Contribution%20Constellation%20%E2%9C%A6&title_color=A855F7&border_color=2D1B69" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ffrazi&bg_color=0B0F19&color=C4B5FD&line=8B5CF6&point=A855F7&area_color=6366F1&area=true&hide_border=false&custom_title=%E2%9C%A6%20Contribution%20Constellation%20%E2%9C%A6&title_color=A855F7&border_color=2D1B69" width="100%" alt="Activity Graph" />
 </a>
-
-<br/><br/>
+</p>
 
 <!-- Trophies -->
+<p align="center">
 <a href="https://github.com/ffrazi">
-<img src="https://github-profile-trophy.vercel.app/?username=ffrazi&theme=discord&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10" width="95%" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ffrazi&theme=discord&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
 </a>
+</p>
 
 </div>
 
@@ -462,6 +464,27 @@ facial landmark extraction with **Dlib**.
 <a href="mailto:aneesazainabf@gmail.com">
 <img src="https://img.shields.io/badge/Email-Reach_Out-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19" />
 </a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════ DIVIDER ══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:4C1D95,100:0B0F19&height=2" width="100%"/>
+
+<!-- ══════════════════════ SNAKE ══════════════════════ -->
+
+<div align="center">
+
+<h2><img src="https://img.shields.io/badge/▹_>_watch_contributions-A855F7?style=for-the-badge&labelColor=0B0F19&logo=windowsterminal&logoColor=A855F7"/></h2>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ffrazi/ffrazi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ffrazi/ffrazi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ffrazi/ffrazi/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 

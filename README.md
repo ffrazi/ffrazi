@@ -497,32 +497,45 @@ facial landmark extraction with **Dlib**.
 
 <div align="center">
 
+<br/><br/>
+
+<!-- ✦ The Quote ✦ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=4000&pause=3000&color=C4B5FD&center=true&vCenter=true&repeat=true&width=700&height=80&lines=%E2%9C%A6+%22The+universe+rewards+those+who+remain+curious.%22+%E2%9C%A6" alt="Quote" />
+
+<br/><br/><br/>
+
+<!-- ✦ Moon Phases — The Cycle of Infinite Learning ✦ -->
+
+<table>
+<tr>
+<td align="center"><h3>🌑</h3><sub>Begin</sub></td>
+<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
+<td align="center"><h3>🌒</h3><sub>Learn</sub></td>
+<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
+<td align="center"><h3>🌓</h3><sub>Build</sub></td>
+<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
+<td align="center"><h3>🌔</h3><sub>Refine</sub></td>
+<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
+<td align="center"><h3>🌕</h3><sub>Master</sub></td>
+<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
+<td align="center"><h3>🌖</h3><sub>Teach</sub></td>
+<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
+<td align="center"><h3>🌗</h3><sub>Reflect</sub></td>
+<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
+<td align="center"><h3>🌘</h3><sub>Dream</sub></td>
+<td align="center"><h3>&nbsp;&nbsp;·&nbsp;&nbsp;</h3><sub>&nbsp;</sub></td>
+<td align="center"><h3>🌑</h3><sub>Begin</sub></td>
+</tr>
+</table>
+
 <br/>
 
-```
-          ·  ✦  ·       ·    ·   ✦      ·        ·    ✦   ·       ·
-               ·    ·        ·       ·        ·        ·       ·     
-          ·        ·    ╔═══════════════════════════════════════╗    ·
-         ✦    ·        ║                                       ║       ·
-              ·    ·   ║  "The universe rewards those who      ║  ·      
-          ·        ·   ║         remain curious."               ║    ✦   
-               ·       ║                                       ║  ·     
-          ·    ✦   ·   ╚═══════════════════════════════════════╝       ·
-              ·     ·       ·        ·    ✦    ·       ·    ·    ·     
-          ·       ·    ·  ✦     ·        ·        ✦  ·       ·        
-```
+<h3><i>"In patterns, intelligence emerges.<br/>In persistence, mastery forms."</i></h3>
 
 <br/>
 
-<!-- Moon phases — the rhythm of infinite learning -->
-🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘 🌑
-
-<br/>
-
-<sub>
-<i>"In patterns, intelligence emerges. In persistence, mastery forms.<br/>
-The neural pathways of curiosity never stop firing."</i>
-</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&height=30&lines=The+neural+pathways+of+curiosity+never+stop+firing.;Between+the+stars+and+the+semicolons.;Intelligence+is+not+volume.+It+is+resolution." alt="Closing" />
 
 <br/><br/>
 

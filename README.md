@@ -126,9 +126,9 @@ const ffrazi = {
 
 **⚙ Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark&perline=2" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark&perline=2" />
 
 </td>
 <td align="center" width="25%">
